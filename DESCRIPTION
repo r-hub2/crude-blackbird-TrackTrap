@@ -19,7 +19,7 @@ Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 8.0.0
 NeedsCompilation: no
-Packaged: 2026-06-13 17:10:12 UTC; santo
+Packaged: 2026-06-13 17:23:28 UTC; santo
 Author: Santosh Bhandari [aut, cre],
   Lalit Kharel [aut],
   Mahesh Ghimire [aut]

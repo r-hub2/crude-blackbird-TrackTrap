@@ -1,5 +1,3 @@
-setwd("E:/TrackTrap_1.0.0/R")
-
 pest_thresholds <- data.frame(
   pest_code = c(
     "OLFF", "NOW", "CM", "SWD", "BMSB", "ACP", "PTB", "WHF", "CRS", "SJS", "CT", "CLM",
